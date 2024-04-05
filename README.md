@@ -1,3 +1,9 @@
+# Prerequisits
+
+Use command - pip install streamlit //to install dependencies streamlit run app.py //to run the streamlit script
+
+Lastly export your own similarity.pkl file and use it to run the final model
+
 # Movie-Recommender-System
 This project implements a movie recommendation system using content-based filtering techniques. It utilizes the movie dataset containing information about movie titles, overviews, and genres to suggest similar movies to users based on their preferences.
 
